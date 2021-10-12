@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Monil
-- 👀 I’m interested in Competitive coding
-- 🌱 I’m currently learning Back-end development
+- Hello, I’m Monil.
+- I’m a sophomore at VIT .
+- I'm currently pursuing B.Tech in CSE core branch.
+- I do competitve programming on CodeChef and CodeForces.
+- I am also a web developer and more precisely a front-end web developer with a beginner levelin back-end.
+- I’m currently working on some minor front-end based projects.
+- 
 -
 
 <!---
