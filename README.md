@@ -3,9 +3,9 @@
 - I'm currently pursuing B.Tech in CSE core branch.
 - I do competitve programming on CodeChef and CodeForces.
 - I am also a web developer and more precisely a front-end web developer with a beginner levelin back-end.
-- I’m currently working on some minor front-end based projects.
-- 
--
+- My passions are Cricket,chess and off-course watching web-series!!
+- About socializing i am not obsessed with it but attached with some close ppl-
+
 
 <!---
 Monil-007/Monil-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
