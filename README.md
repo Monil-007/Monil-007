@@ -3,7 +3,7 @@
 - I'm currently pursuing B.Tech in CSE core branch.
 - I do competitve programming on CodeChef and CodeForces.
 - I am also a web developer and more precisely a front-end web developer with a beginner levelin back-end.
-- My passions are Cricket,chess and off-course watching web-series!!
+- My passions are Cricket,chess and of-course watching web-series!!
 - About socializing i am not obsessed with it but attached with some close ppl-
 
 
