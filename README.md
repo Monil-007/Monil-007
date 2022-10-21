@@ -4,7 +4,7 @@
 - I do competitve programming on CodeChef and CodeForces.
 - I am also a web developer and more precisely a front-end web developer with a beginner levelin back-end.
 - My passions are Cricket,chess and exploring tech-ideas and strategies
-- About socializing i am not obsessed with it but attached with some close ppl-
+- About socializing i am not obsessed with it but highly attached with some close ppl-
 
 
 Most used languages:
