@@ -2,7 +2,7 @@
 - I’m a pre-final year student at VIT .
 - I'm currently pursuing B.Tech in CSE core branch.
 - I do competitve programming on CodeChef and CodeForces.
-- I am also a web developer and more precisely a front-end web developer with a beginner levelin back-end.
+- I am also a web developer and more precisely a MERN Stack developer.
 - My passions are Cricket,chess and exploring tech-ideas and strategies
 - About socializing i am not obsessed with it but highly attached with some close ppl-
 
