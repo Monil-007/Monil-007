@@ -1,8 +1,9 @@
-- Hello, I’m Monil.
+- Hello, I’m Gandhi Monil.
 - I’m a pre-final year student at VIT .
 - I'm currently pursuing B.Tech in CSE core branch.
 - I do competitve programming on CodeChef and CodeForces.
-- I am also a Full Stack Web Developer.
+- For Dev. side, I'm a Full Stack Web Developer.
+- Currently getting into ML domain
 - My passions are Cricket,chess and exploring tech-ideas and strategies
 - About socializing i am not obsessed with it but highly attached with some close ppl.
 
