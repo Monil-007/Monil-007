@@ -3,7 +3,6 @@
 - I'm currently pursuing B.Tech in CSE core branch.
 - I do competitve programming on CodeChef and CodeForces.
 - For Dev. side, I'm a Full Stack Web Developer.
-- Currently getting into ML domain
 - My passions are Cricket,chess and exploring tech-ideas and strategies
 - About socializing i am not obsessed with it but highly attached with some close ppl.
 
