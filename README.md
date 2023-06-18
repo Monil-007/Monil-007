@@ -25,7 +25,7 @@
 
 </div>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-Monil-007&style=flat-square&color=232323">
+<img align="center" src="https://komarev.com/ghpvc/?username=your-github-Monil-007&style=flat-square&color=232323">
 
 <div align="center">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Monil-007&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Monil-GIthub-Stats" alt="Monil's Github stats" />
@@ -37,9 +37,9 @@
 <div><h3>Lets connect 😃</h3></div>
 
 <div style="display: flex;">
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gandhi.monil10@gmail.com) 
+ 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gandhi.monil10@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/monil_28/)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monil-gandhi10/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MonilGandhi12)
 </div>
