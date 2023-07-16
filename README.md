@@ -1,7 +1,7 @@
 ## <p align="center">Hello there,Welcome to my profile</p>
 
 <a href="https://gandhi-monil-portfolio10.netlify.app/">
-<img src="./LinkedIn Banner" />
+<img src="./My_Banner.png" />
 </a>
 <div align="center"><a href="https://gandhi-monil-portfolio10.netlify.app/">
 <img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=Monil-007&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
