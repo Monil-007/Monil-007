@@ -27,11 +27,19 @@
 
 
 <img align="center" src="https://komarev.com/ghpvc/?username=your-github-Monil-007&style=flat-square&color=232323">
-
-<div align="center">
+<br/>
+<table align="center">
+  <tr align="center">
+    <td align="center"><img src="https://github-readme-stats-ouuan.vercel.app/api?username=Monil-007&theme=radical&include_all_commits=true&count_private=true&show_icons=true&hide_border=true"  display=block width=90% height=auto  alt="1" > </td>
+   
+   <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Monil-007&theme=tokyonight&hide_border=true"  display=block width=90% height=auto alt="3" ></td>
+   </tr>
+   </table>
+  <br/>
+<!-- <div align="center">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Monil-007&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Monil-GIthub-Stats" alt="Monil's Github stats" />
 <img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=Monil-007&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=CB0044" />
-</div>
+</div> -->
 <!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monil-007&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span>
  -->
 <p align="center">
